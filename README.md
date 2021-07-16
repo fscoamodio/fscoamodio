@@ -8,6 +8,7 @@ CIREQ and CReAM Research Fellow
 MONT^2 Founding Member
 McGill CPD Associate Member
 
-- Research Interests
+- Research Interests:
+
 Development Economics, Labor Economics, Political Economy
 I study market imperfections and their impact on the productivity and efficiency of organizations, focusing primarily on firms and labor markets in low-income countries.
