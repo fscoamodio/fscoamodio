@@ -3,9 +3,9 @@
 Associate Professor, McGill University
 Department of Economics and Institute for the Study of International Development
 
-CEPR and IZA Research Affiliate
-CIREQ and CReAM Research Fellow 
-MONT^2 Founding Member
+CEPR and IZA Research Affiliate,
+CIREQ and CReAM Research Fellow,
+MONT^2 Founding Member,
 McGill CPD Associate Member
 
 Research Interests: Development Economics, Labor Economics, Political Economy
